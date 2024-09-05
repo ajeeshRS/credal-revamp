@@ -12,9 +12,9 @@ export default function Hero() {
         Solutions
       </p>
       <p className="text-center md:w-3/6 w-full py-5 text-[#333333] md:text-base text-sm">
-        Unlock your enterprise's potential with AI Assistants tailored to your
+        Unlock your enterprise&apos;s potential with AI Assistants tailored to your
         people, data, and tools. Empower employees to create secure, compliant
-        AI applications that protect and enhance your organization's data.
+        AI applications that protect and enhance your organization&apos;s data.
       </p>
       <div className="w-full flex md:flex-row flex-col gap-2 items-center justify-center py-5">
         <p className="px-1 text-sm">Compatible with</p>

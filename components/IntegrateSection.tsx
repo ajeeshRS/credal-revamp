@@ -16,7 +16,7 @@ export default function IntegrateSection() {
           className="my-5"
         />
         <p className="font-semibold md:text-3xl text-xl text-center md:px-0 px-5 py-4">
-          Connect your company's data securely
+          Connect your company&apos;s data securely
         </p>
         <p className="text-center md:text-base text-sm">
           Point & click integration makes it easy to get started
